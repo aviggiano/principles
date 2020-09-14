@@ -1,4 +1,4 @@
-| Idade | Raciocíinio Lógico | Artes | Idiomas | Saúde |
+| Idade | Raciocínio Lógico | Artes | Idiomas | Saúde |
 | ----- | ------------------ | ----- | ------- | ----- |
 | 1 | | |  Literatura infantil | |
 | 2 | | |  Língua estrangeira | Natação |
