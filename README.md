@@ -1,3 +1,3 @@
 # principles
 
-Moved to aviggiano.com
+Moved to https://aviggiano.com
